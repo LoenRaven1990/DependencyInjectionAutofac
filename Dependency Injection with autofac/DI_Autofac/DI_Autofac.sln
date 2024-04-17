@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34804.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_Autofac", "DI_Autofac\DI_Autofac.csproj", "{84DECDCE-93FC-4202-A6EE-C061AEC60BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{3D84329D-4598-4C16-A59C-575A894DC9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84DECDCE-93FC-4202-A6EE-C061AEC60BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DECDCE-93FC-4202-A6EE-C061AEC60BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DECDCE-93FC-4202-A6EE-C061AEC60BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DECDCE-93FC-4202-A6EE-C061AEC60BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D84329D-4598-4C16-A59C-575A894DC9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D84329D-4598-4C16-A59C-575A894DC9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D84329D-4598-4C16-A59C-575A894DC9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D84329D-4598-4C16-A59C-575A894DC9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5018DB-D816-4A82-94E4-EA8468672025}
+	EndGlobalSection
+EndGlobal

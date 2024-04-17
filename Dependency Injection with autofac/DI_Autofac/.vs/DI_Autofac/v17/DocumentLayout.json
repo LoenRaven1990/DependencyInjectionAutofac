@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\Visual\\backUped\\IAmTimCorey\\Dependency Injection with autofac\\DI_Autofac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84DECDCE-93FC-4202-A6EE-C061AEC60BDB}|DI_Autofac\\DI_Autofac.csproj|d:\\projects\\visual\\backuped\\iamtimcorey\\dependency injection with autofac\\di_autofac\\di_autofac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DECDCE-93FC-4202-A6EE-C061AEC60BDB}|DI_Autofac\\DI_Autofac.csproj|solutionrelative:di_autofac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\Visual\\backUped\\IAmTimCorey\\Dependency Injection with autofac\\DI_Autofac\\DI_Autofac\\Program.cs",
+              "RelativeDocumentMoniker": "DI_Autofac\\Program.cs",
+              "ToolTip": "D:\\projects\\Visual\\backUped\\IAmTimCorey\\Dependency Injection with autofac\\DI_Autofac\\DI_Autofac\\Program.cs",
+              "RelativeToolTip": "DI_Autofac\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:03:21.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
